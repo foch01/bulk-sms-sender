@@ -28,7 +28,7 @@ This database can be exposed publicly (for example) just the time of sending SMS
 
 ## Setup
 
-1. Get shortcut [here](https://www.icloud.com/shortcuts/8002abe9670145e290b761eec1feaa6a)
+1. Get shortcut [here](https://www.icloud.com/shortcuts/8002abe9670145e290b761eec1feaa6a).
 
 1. Edit URL.
 
