@@ -1,7 +1,8 @@
-# bulk-sms-sender
+# Bulk SMS Sender ✉️📲
 
 
 This repository is an IOS shortcut to send bulk SMS to multiple recipients. Usable for marketing campaigns for example.
+
 <img src="https://user-images.githubusercontent.com/19187357/154156814-82230b01-9456-4d4a-956a-a35c1a826ce5.PNG" width="200">
 <img src="https://user-images.githubusercontent.com/19187357/154156750-5bbab1ea-4a15-4e8a-8486-f457850f4808.PNG" width="200">
 
